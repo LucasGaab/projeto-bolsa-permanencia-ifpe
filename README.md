@@ -34,19 +34,19 @@ Conheça quem faz parte do nosso time
         </sub>
       </a>
     </td>
-     <td align="center">
-      <a href="https://github.com/luisfv10" title="defina o titulo do link">
-        <img src="https://avatars.githubusercontent.com/u/110510265?v=4" width="100px;" alt="Foto"/><br>
-        <sub>
-          <b>Luis Filipe</b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="https://github.com/LucasGaab" title="defina o titulo do link">
         <img src="https://avatars.githubusercontent.com/u/94190622?v=4" width="100px;" alt="Foto"/><br>
         <sub>
           <b>Lucas Gabriel</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/luisfv10" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/110510265?v=4" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Luis Filipe</b>
         </sub>
       </a>
     </td>
