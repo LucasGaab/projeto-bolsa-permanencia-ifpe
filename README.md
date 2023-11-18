@@ -3,6 +3,9 @@
 ## 📜 Resumo
 Este repositório é dedicado à organizar e armazenar artefatos desenvolvidos no projeto das disciplinas integradas SGE, PGP E GPN do curso de Sistemas de Informação do Centro de Informática da UFPE. O objetivo é aprimorar a jornada de alunos cotistas do ifpe ao solicitar a bolsa permanência fornecida pela instituição.
 
+## 📗 🔨 Metodologias e Ferramentas
+Tendo em foco um desenvolvimento ágil para a execução do projeto, escolhemos a metodologia Kanban, utilizando a ferramenta Notion para criação do quadro. Para acessar o quadro e obter mais informações de organização [CLIQUE AQUI](https://twilight-cotija-748.notion.site/Projeto-Bolsa-Perman-ncia-IFPE-15f5ab980c204028a1869dc5846b7390)
+
 
 ## 🤝 Autores
 
