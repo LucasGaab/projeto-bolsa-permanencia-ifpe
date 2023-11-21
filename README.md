@@ -1,5 +1,9 @@
 <h1 align="center"> Projeto: Bolsa Permanência - IFPE </h1>
 
+<p align="center">
+  <img alt="Projeto DevLinks" src="https://github.com/LucasGaab/projeto-bolsa-permanencia-ifpe/blob/main/Fluxo%20-%20Bolsa%20Perman%C3%AAncia%20UFPE.png" width="100%">
+</p>
+
 ## 📜 Resumo
 Este repositório é dedicado à organizar e armazenar artefatos desenvolvidos no projeto das disciplinas integradas SGE, PGP E GPN do curso de Sistemas de Informação do Centro de Informática da UFPE. O objetivo é aprimorar a jornada de alunos cotistas do ifpe ao solicitar a bolsa permanência fornecida pela instituição.
 
